@@ -1,0 +1,101 @@
+Crime_ID,Crime_Type,Date,Location,Suspect_Name,Evidence_Found,Investigation_Status,Officer_Assigned,Outcome
+1,Homicide,10-01-2024,Tokyo,Light Yagami,Yes,Ongoing,L,Unknown
+2,Kidnapping,15-01-2024,Osaka,Misa Amane,No,Closed,Matsuda,Rescued
+3,Cybercrime,20-01-2024,Kyoto,Teru Mikami,Yes,Ongoing,L,Unknown
+4,Theft,22-01-2024,Tokyo,Unknown,No,Closed,Aizawa,Not Recovered
+5,Arson,05-02-2024,Yokohama,Unknown,Yes,Solved,L,Arrested
+6,Fraud,10-02-2024,Sapporo,Light Yagami,Yes,Ongoing,Matsuda,Unknown
+7,Assault,15-02-2024,Nagoya,Ryuk,No,Closed,Aizawa,Not Arrested
+8,Homicide,01-03-2024,Osaka,Rem,Yes,Solved,Soichiro Yagami,Arrested
+9,Cybercrime,05-03-2024,Tokyo,Mello,Yes,Ongoing,Near,Unknown
+10,Theft,10-03-2024,Kyoto,Near,No,Closed,Matsuda,Recovered
+11,Homicide,12-03-2024,Tokyo,Kira,Yes,Ongoing,L,Unknown
+12,Arson,15-03-2024,Nagoya,Unknown,No,Closed,Aizawa,Not Arrested
+13,Kidnapping,20-03-2024,Sapporo,Misa Amane,Yes,Solved,Matsuda,Arrested
+14,Cybercrime,25-03-2024,Osaka,Teru Mikami,No,Closed,L,Not Recovered
+15,Fraud,01-04-2024,Tokyo,Light Yagami,Yes,Ongoing,Near,Unknown
+16,Theft,05-04-2024,Yokohama,Mello,Yes,Solved,Aizawa,Recovered
+17,Assault,10-04-2024,Nagoya,Unknown,No,Closed,Matsuda,Not Arrested
+18,Homicide,12-04-2024,Kyoto,Ryuk,Yes,Ongoing,L,Unknown
+19,Kidnapping,15-04-2024,Tokyo,Rem,No,Closed,Soichiro Yagami,Rescued
+20,Cybercrime,20-04-2024,Sapporo,Near,Yes,Ongoing,L,Unknown
+21,Fraud,22-04-2024,Osaka,Misa Amane,No,Closed,Matsuda,Not Recovered
+22,Theft,25-04-2024,Nagoya,Unknown,Yes,Solved,Aizawa,Arrested
+23,Arson,01-05-2024,Tokyo,Light Yagami,Yes,Ongoing,L,Unknown
+24,Assault,05-05-2024,Yokohama,Mello,No,Closed,Matsuda,Not Arrested
+25,Homicide,10-05-2024,Osaka,Ryuk,Yes,Solved,Soichiro Yagami,Arrested
+26,Kidnapping,12-05-2024,Kyoto,Rem,No,Closed,Aizawa,Rescued
+27,Cybercrime,15-05-2024,Tokyo,Teru Mikami,Yes,Ongoing,L,Unknown
+28,Fraud,20-05-2024,Nagoya,Light Yagami,Yes,Ongoing,Matsuda,Unknown
+29,Theft,22-05-2024,Sapporo,Mello,No,Closed,Aizawa,Not Recovered
+30,Arson,25-05-2024,Yokohama,Unknown,Yes,Solved,L,Arrested
+31,Assault,01-06-2024,Tokyo,Ryuk,Yes,Ongoing,Matsuda,Unknown
+32,Homicide,05-06-2024,Osaka,Light Yagami,No,Closed,Aizawa,Not Arrested
+33,Kidnapping,10-06-2024,Kyoto,Misa Amane,Yes,Solved,Soichiro Yagami,Arrested
+34,Cybercrime,12-06-2024,Nagoya,Teru Mikami,No,Closed,L,Not Recovered
+35,Fraud,15-06-2024,Sapporo,Mello,Yes,Ongoing,Matsuda,Unknown
+36,Theft,20-06-2024,Tokyo,Unknown,No,Closed,Aizawa,Recovered
+37,Arson,25-06-2024,Yokohama,Ryuk,Yes,Solved,L,Arrested
+38,Assault,01-07-2024,Osaka,Light Yagami,No,Closed,Matsuda,Not Arrested
+39,Homicide,05-07-2024,Nagoya,Rem,Yes,Ongoing,Aizawa,Unknown
+40,Kidnapping,10-07-2024,Kyoto,Mello,No,Closed,Soichiro Yagami,Rescued
+41,Cybercrime,15-07-2024,Sapporo,Unknown,Yes,Ongoing,L,Unknown
+42,Fraud,20-07-2024,Tokyo,Teru Mikami,No,Closed,Matsuda,Not Recovered
+43,Theft,25-07-2024,Yokohama,Light Yagami,Yes,Solved,Aizawa,Arrested
+44,Arson,30-07-2024,Osaka,Ryuk,Yes,Ongoing,L,Unknown
+45,Assault,01-08-2024,Nagoya,Misa Amane,No,Closed,Matsuda,Not Arrested
+46,Homicide,05-08-2024,Sapporo,Unknown,Yes,Solved,Aizawa,Arrested
+47,Kidnapping,10-08-2024,Tokyo,Rem,No,Closed,Soichiro Yagami,Rescued
+48,Cybercrime,15-08-2024,Kyoto,Mello,Yes,Ongoing,L,Unknown
+49,Fraud,20-08-2024,Nagoya,Light Yagami,Yes,Ongoing,Matsuda,Unknown
+50,Theft,25-08-2024,Yokohama,Unknown,No,Closed,Aizawa,Recovered
+51,Arson,01-09-2024,Osaka,Ryuk,Yes,Solved,L,Arrested
+52,Assault,05-09-2024,Sapporo,Teru Mikami,No,Closed,Matsuda,Not Arrested
+53,Homicide,10-09-2024,Tokyo,Light Yagami,Yes,Ongoing,Aizawa,Unknown
+54,Kidnapping,15-09-2024,Nagoya,Mello,No,Closed,Soichiro Yagami,Rescued
+55,Cybercrime,20-09-2024,Kyoto,Rem,Yes,Ongoing,L,Unknown
+56,Fraud,25-09-2024,Sapporo,Unknown,No,Closed,Matsuda,Not Recovered
+57,Theft,30-09-2024,Tokyo,Teru Mikami,Yes,Solved,Aizawa,Arrested
+58,Arson,01-10-2024,Yokohama,Ryuk,Yes,Ongoing,L,Unknown
+59,Assault,05-10-2024,Osaka,Misa Amane,No,Closed,Matsuda,Not Arrested
+60,Homicide,10-10-2024,Nagoya,Light Yagami,Yes,Solved,Soichiro Yagami,Arrested
+61,Kidnapping,15-10-2024,Sapporo,Unknown,No,Closed,Aizawa,Rescued
+62,Cybercrime,20-10-2024,Tokyo,Rem,Yes,Ongoing,L,Unknown
+63,Fraud,25-10-2024,Kyoto,Mello,No,Closed,Matsuda,Not Recovered
+64,Theft,01-11-2024,Nagoya,Teru Mikami,Yes,Solved,Aizawa,Arrested
+65,Arson,05-11-2024,Osaka,Light Yagami,Yes,Ongoing,L,Unknown
+66,Assault,10-11-2024,Sapporo,Ryuk,No,Closed,Matsuda,Not Arrested
+67,Homicide,15-11-2024,Tokyo,Misa Amane,Yes,Solved,Soichiro Yagami,Arrested
+68,Kidnapping,20-11-2024,Nagoya,Unknown,No,Closed,Aizawa,Rescued
+69,Cybercrime,25-11-2024,Kyoto,Light Yagami,Yes,Ongoing,L,Unknown
+70,Fraud,30-11-2024,Sapporo,Mello,No,Closed,Matsuda,Not Recovered
+71,Theft,01-12-2024,Osaka,Teru Mikami,Yes,Solved,Aizawa,Arrested
+72,Arson,05-12-2024,Tokyo,Ryuk,Yes,Ongoing,L,Unknown
+73,Assault,10-12-2024,Sapporo,Light Yagami,No,Closed,Matsuda,Not Arrested
+74,Homicide,15-12-2024,Kyoto,Misa Amane,Yes,Solved,Soichiro Yagami,Arrested
+75,Kidnapping,20-12-2024,Nagoya,Unknown,No,Closed,Aizawa,Rescued
+76,Cybercrime,25-12-2024,Tokyo,Teru Mikami,Yes,Ongoing,L,Unknown
+77,Fraud,30-12-2024,Osaka,Mello,No,Closed,Matsuda,Not Recovered
+78,Theft,05-01-2025,Yokohama,Light Yagami,Yes,Solved,Aizawa,Arrested
+79,Arson,10-01-2025,Tokyo,Ryuk,Yes,Ongoing,L,Unknown
+80,Assault,15-01-2025,Osaka,Misa Amane,No,Closed,Matsuda,Not Arrested
+81,Homicide,20-01-2025,Nagoya,Teru Mikami,Yes,Solved,Soichiro Yagami,Arrested
+82,Kidnapping,25-01-2025,Kyoto,Unknown,No,Closed,Aizawa,Rescued
+83,Cybercrime,30-01-2025,Sapporo,Mello,Yes,Ongoing,L,Unknown
+84,Fraud,05-02-2025,Tokyo,Light Yagami,No,Closed,Matsuda,Not Recovered
+85,Theft,10-02-2025,Yokohama,Rem,Yes,Solved,Aizawa,Arrested
+86,Arson,15-02-2025,Osaka,Ryuk,Yes,Ongoing,L,Unknown
+87,Assault,20-02-2025,Nagoya,Misa Amane,No,Closed,Matsuda,Not Arrested
+88,Homicide,25-02-2025,Kyoto,Light Yagami,Yes,Solved,Soichiro Yagami,Arrested
+89,Kidnapping,01-03-2025,Sapporo,Unknown,No,Closed,Aizawa,Rescued
+90,Cybercrime,05-03-2025,Tokyo,Mello,Yes,Ongoing,L,Unknown
+91,Fraud,10-03-2025,Osaka,Teru Mikami,No,Closed,Matsuda,Not Recovered
+92,Theft,15-03-2025,Nagoya,Light Yagami,Yes,Solved,Aizawa,Arrested
+93,Arson,20-03-2025,Yokohama,Ryuk,Yes,Ongoing,L,Unknown
+94,Assault,25-03-2025,Tokyo,Misa Amane,No,Closed,Matsuda,Not Arrested
+95,Homicide,01-04-2025,Osaka,Rem,Yes,Solved,Soichiro Yagami,Arrested
+96,Kidnapping,05-04-2025,Kyoto,Unknown,No,Closed,Aizawa,Rescued
+97,Cybercrime,10-04-2025,Sapporo,Mello,Yes,Ongoing,L,Unknown
+98,Fraud,15-04-2025,Tokyo,Teru Mikami,No,Closed,Matsuda,Not Recovered
+99,Theft,20-04-2025,Yokohama,Light Yagami,Yes,Solved,Aizawa,Arrested
+100,Arson,25-04-2025,Osaka,Ryuk,Yes,Ongoing,L,Unknown
